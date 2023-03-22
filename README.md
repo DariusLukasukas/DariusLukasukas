@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Darius Lukasukas, a self-taught developer with a knack for turning ideas into user-friendly and interactive web applications. I have a strong interest in web development, data science, machine learning. I love to learn and explore new technologies, and I'm always looking for new challenges to expand my skillset. My goal is to make a positive impact through technology and contribute to the open-source community.
+I'm Darius Lukasukas, a self-taught developer with a knack for turning ideas into user-friendly and interactive web applications. I have a strong interest in mobile and web application development, back-end development. I love to learn and explore new technologies, and I'm always looking for new challenges to expand my skillset. My goal is to make a positive impact through technology and contribute to the open-source community.
 
 ## I love working with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
