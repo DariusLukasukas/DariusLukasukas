@@ -23,6 +23,7 @@ I'm Darius Lukasukas, a self-taught developer with a knack for turning ideas int
 
 ## 👨🏼‍💻 Recent Projects
 - Weather App 🌟 - [Repo](https://github.com/DariusLukasukas/weather-app-vite) | [Demo](https://dariuslukasukas.github.io/weather-app-vite/)
+- Tetris Game 🕹️ [Repo](https://github.com/DariusLukasukas/tetris) | [Demo](https://tetris-next.vercel.app)
 - Chat App 💫 - [Repo](https://github.com/DariusLukasukas/chat-app) | [Demo](https://github.com/DariusLukasukas/chat-app)
 - Personal Page - 90% ready.
 - Music App ✨ - in development.
