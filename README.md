@@ -3,6 +3,7 @@
 I'm Darius Lukasukas, a self-taught developer with a knack for turning ideas into user-friendly and interactive web applications. I have a strong interest in mobile and web application development,UX and UI design as well as back-end development. I love to learn and explore new technologies, and I'm always looking for new challenges to expand my skillset. My goal is to make a positive impact through technology and contribute to the open-source community.
 
 ## I love working with
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,9 +18,6 @@ I'm Darius Lukasukas, a self-taught developer with a knack for turning ideas int
   - A powerful search functionality that allows users to effortlessly find their favorite artists, tracks, and albums.
   - Customizable playlists, enabling users to create, edit, and share their own collections of music.
   - A recommendation engine that suggests new songs and artists based on users' listening habits and preferences.
-
-## 🌱 I’m currently learning
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## 👨🏼‍💻 Recent Projects
 - Weather App 🌟 - [Repo](https://github.com/DariusLukasukas/weather-app-vite) | [Demo](https://dariuslukasukas.github.io/weather-app-vite/)
