@@ -23,6 +23,7 @@ I'm Darius Lukasukas, a self-taught developer with a knack for turning ideas int
 - Tetris Game 🕹️ [Repo](https://github.com/DariusLukasukas/tetris) | [Demo](https://tetris-next.vercel.app)
 - Chat App 💫 - [Repo](https://github.com/DariusLukasukas/chat-app) | [Demo](https://github.com/DariusLukasukas/chat-app)
 - Personal Page - 90% ready.
+- Twitter Clone - in development.
 - Music App ✨ - in development.
 
 ## 🤔 I’m looking for help with 
